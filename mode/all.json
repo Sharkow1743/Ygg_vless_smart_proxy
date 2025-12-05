@@ -1,0 +1,12 @@
+{
+  "type": "ProcessMode",
+  "bypass": [],
+  "handle": [
+    "0.0.0.0:0/0",
+    "[::]:0/0",
+    "\\\\*\\\\"
+  ],
+  "remark": {
+    "en-US": "all"
+  }
+}
