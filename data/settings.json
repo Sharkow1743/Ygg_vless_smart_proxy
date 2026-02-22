@@ -19,9 +19,9 @@
       "Version": "5",
       "Group": "NONE",
       "Hostname": "200:b48d:469e:c7c7:3e13:c41d:ba4d:d2b8",
-      "Port": 2080,
+      "Port": 2082,
       "Rate": 1,
-      "Remark": "proxy vless yggdrasil"
+      "Remark": "proxy warp yggdrasil"
     }
   ],
   "AioDNS": {
